@@ -1,0 +1,9 @@
+notifications:
+  webhooks:
+    urls:
+      - https://open.larksuite.com/officialapp/notify/2c6e06064277e9928512379247fe089bed100c2ecf022b9df6c4cf0a452c0298
+    on_success: always # default: always
+    on_failure: always # default: always
+    on_start: never # default: never
+    on_cancel: always # default: always
+    on_error: always # default: always
