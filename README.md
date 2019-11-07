@@ -1,2 +1,2 @@
 # nanachi
-nanachi is the saiko
+nanachi saiko
